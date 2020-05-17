@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medius.Crypto", "Medius.Crypto\Medius.Crypto.csproj", "{28A5393E-7679-4F5F-B9B4-AA850CE49A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A5393E-7679-4F5F-B9B4-AA850CE49A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A5393E-7679-4F5F-B9B4-AA850CE49A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A5393E-7679-4F5F-B9B4-AA850CE49A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A5393E-7679-4F5F-B9B4-AA850CE49A46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF94A242-A4DC-460F-99D4-27350DA90DF4}
+	EndGlobalSection
+EndGlobal
